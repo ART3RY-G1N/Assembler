@@ -5,13 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6e829ed-9734-4c06-bf7a-ff4beb459330" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Assembler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/invalid_program.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/invalid_program.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/load_constant.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/load_constant.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/load_constant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/load_constant_result.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/program_log.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/read_memory.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/read_memory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/read_memory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/read_memory_result.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unary_operation.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unary_operation.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unary_operation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/write_memory.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/write_memory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/write_memory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/write_memory_result.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +41,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ART3RY-G1N"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:ART3RY-G1N/Assembler.git",
+    "accountId": "53c8c044-529d-4bee-92a6-54407b2c6d7d"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
